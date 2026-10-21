@@ -1,0 +1,10 @@
+/* Walking Files — Root Index Styling */
+@import './styles/designTokens.css';
+@import './styles/global.css';
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" width="280" height="60" fill="none">
+  <defs>
+    <linearGradient id="logo-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F9E29B"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+  </defs>
+  <!-- Architectural Emblem -->
+  <g transform="translate(4, 6)">
+    <rect width="48" height="48" rx="12" fill="#121829" stroke="url(#logo-gold)" stroke-width="1.5"/>
+    <!-- Jaali Arch / Folio Geometry -->
+    <path d="M14 36 L14 18 L22 18 L26 22 L34 22 L34 36 Z" fill="none" stroke="url(#logo-gold)" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Diamond apex -->
+    <polygon points="24,14 28,18.5 24,23 20,18.5" fill="url(#logo-gold)" opacity="0.85"/>
+    <circle cx="24" cy="30" r="2.2" fill="#F9E29B"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="64" y="31" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" letter-spacing="-0.3">Walking Files</text>
+  <text x="65" y="46" font-family="'Cinzel', 'Cormorant Garamond', serif" font-size="9" font-weight="600" fill="#D4AF37" letter-spacing="2.8">DESKTOP SOFTWARE</text>
+</svg>

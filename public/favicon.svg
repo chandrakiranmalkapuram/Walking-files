@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="wf-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7D070"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#997A15"/>
+    </linearGradient>
+    <radialGradient id="wf-bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#141C33"/>
+      <stop offset="100%" stop-color="#0A0E1A"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#wf-bg)"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#D4AF37" stroke-opacity="0.3" stroke-width="1.5"/>
+  <!-- Geometric Jaali Step Motif & Folder Arch -->
+  <path d="M18 46 L18 24 L28 24 L32 28 L46 28 L46 46 Z" fill="none" stroke="url(#wf-gold)" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="32,20 37,26 32,32 27,26" fill="url(#wf-gold)" opacity="0.9"/>
+  <circle cx="32" cy="38" r="3" fill="#F7D070"/>
+</svg>
